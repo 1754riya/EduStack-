@@ -13,16 +13,14 @@ Features
 
 
 ## Tech Stack 
-Frontend: Next.js 15 with App Router and Tailwind CSS for modern styling.
 
-Backend: API routes with Gemini for AI-powered course content generation.
+    Frontend: Next.js 15 with App Router and Tailwind CSS for modern styling.
+    Backend: API routes with Gemini for AI-powered course content generation.
+    Video Integration: YouTube Data API v3 for embedding relevant videos into courses.
+    Styling: Tailwind CSS for responsive design.
+    Authentication: Clerk integration for user management.
+    Database: PostgreSQL with Drizzle ORM.
 
-Video Integration: YouTube Data API v3 for embedding relevant videos into courses.
-
-Styling: Tailwind CSS for responsive design.
-Authentication: Clerk integration for user management.
-
-Database: PostgreSQL with Drizzle ORM.
 ## Getting Started
 
 Clone the repository:
